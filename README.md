@@ -46,5 +46,3 @@ It was built to analyze financial performance across multiple dimensions such as
 - **Excel/CSV datasets** as data sources
 
 ---
-
-## 📂 Repository Structure
